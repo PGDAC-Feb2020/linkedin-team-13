@@ -3,7 +3,7 @@
 
 -Linkedin where people can find jobs or connect with people.
 
--This webiste is basically for anyone who is looking tonavigate their professional life.
+-This webiste is basically for anyone who is looking to navigate their professional life.
 
 
 
